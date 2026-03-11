@@ -6,7 +6,7 @@ permalink: /publication/viziot
 excerpt: 'AR app for vizualizing home privacy leaks from IoT devices'
 date: 2023-02-27
 venue: 'USEC'
-paperurl: 'https://chrispkraemer.github.io/files/viziot.pdf'
+paperurl: 'https://chrispkraemer.github.io/chrispkraemer/files/viziot.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

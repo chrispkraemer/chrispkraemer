@@ -7,7 +7,7 @@ excerpt: 'Compiler extensions to enable battery-free computing for MakeCode.'
 date: 2024-10-01
 venue: 'IMWUT'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://chrispkraemer.github.io/files/batteryfreemakecode.pdf'
+paperurl: 'https://chrispkraemer.github.io/chrispkraemer/files/batteryfreemakecode.pdf'
 #citation: 'Kraemer, Christopher. (2022). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 

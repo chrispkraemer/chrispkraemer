@@ -6,8 +6,8 @@ permalink: /publication/batteryfreearduino
 excerpt: 'Binary rewriting tool for to enable Battery-free Arduino devices'
 date: 2024-10-01
 venue: 'IMWUT'
-slidesurl: 'https://chrispkraemer.github.io/files/batteryfreearduinoSlides.pdf'
-paperurl: 'https://chrispkraemer.github.io/files/batteryfreearduino.pdf'
+slidesurl: 'https://chrispkraemer.github.io/chrispkraemer/files/batteryfreearduino_slides.pdf'
+paperurl: 'https://chrispkraemer.github.io/chrispkraemer/files/batteryfreearduino.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
